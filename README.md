@@ -89,7 +89,7 @@ graph TD;
 
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Serif&size=40&pause=1000&color=D0A8F7&center=true&vCenter=true&width=800&height=70&lines=%E8%A6%8B%E3%81%AB%E6%9D%A5%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%A6%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Serif&size=40&pause=1000&color=03FF3E&background=000000&center=true&vCenter=true&width=800&height=70&lines=%E8%A6%8B%E3%81%AB%E6%9D%A5%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%A6%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86)](https://git.io/typing-svg)
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/Jici-Zeroten/count.svg">
 
