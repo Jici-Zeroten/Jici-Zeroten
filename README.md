@@ -91,12 +91,12 @@ graph TD;
 
                       
 <p align="center"> 
-<center>######################################Thanks for visiting :snowman: :snowman: :snowman:##################################</center>
+<center>#########################################Thanks for visiting :snowman: :snowman: :snowman:##################################</center>
 <p></p>
 <p align="center">
 <img src="https://profile-counter.glitch.me/Jici-Zeroten/count.svg">
 <p align="center"> 
-<center>######################################Thanks for visiting :snowman: :snowman: :snowman:##################################</center>
+<center>#########################################Thanks for visiting :snowman: :snowman: :snowman:##################################</center>
 
 <p></p>
 <p></p>
