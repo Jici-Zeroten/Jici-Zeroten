@@ -89,10 +89,10 @@ graph TD;
 
 </p>
 
-#### Thanks for visiting :snowman: :snowman: :snowman:
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Serif&size=40&pause=1000&color=D0A8F7&center=true&vCenter=true&width=800&height=70&lines=%E8%A6%8B%E3%81%AB%E6%9D%A5%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%A6%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86)](https://git.io/typing-svg)
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/Jici-Zeroten/count.svg">  
+<img src="https://profile-counter.glitch.me/Jici-Zeroten/count.svg">
+
 
 counting of visitors to this page in this section started from August 11, 2023
 <a href="https://info.flagcounter.com/HEq0"><img src="https://s11.flagcounter.com/map/HEq0/size_l/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
