@@ -99,12 +99,7 @@ graph TD;
 <center>#########################################Thanks for visiting :snowman: :snowman: :snowman:##################################</center>
 
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-counting of visitors to this page in this section started from August 11, 2023
+<p>counting of visitors to this page in this section started from August 11, 2023<p>
 <a href="https://info.flagcounter.com/HEq0"><img src="https://s11.flagcounter.com/map/HEq0/size_l/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
 <!--## Star History
