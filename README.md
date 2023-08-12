@@ -78,7 +78,7 @@ graph TD;
     machine-learning-->Feature-Engineering;
     machine-learning-->Evaluation-Metrics;
     machine-learning-->Deployment;
-   ```
+```
 
 
 <p align="center"> 
@@ -89,7 +89,7 @@ graph TD;
 
 </p>
 
-#### Thanks for visiting :heart: :heart: :heart:
+#### Thanks for visiting :snowman: :snowman: :snowman:
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/Jici-Zeroten/count.svg">  
