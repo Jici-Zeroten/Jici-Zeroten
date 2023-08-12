@@ -1,5 +1,20 @@
-![](assets/Bottom_up.svg)
+<!-- ![](assets/Bottom_up.svg) -->
 
+<link href="css/style.css" rel="stylesheet" type="text/css"/>
+<svg width="100%" height="100">
+    <text text-anchor="middle" x="50%" y="50%" class="text text-1">
+        Welcome, my dear friend
+    </text>
+    <text text-anchor="middle" x="50%" y="50%" class="text text-2">
+        Welcome, my dear friend
+    </text>
+    <text text-anchor="middle" x="50%" y="50%" class="text text-3">
+        Welcome, my dear friend
+    </text>
+    <text text-anchor="middle" x="50%" y="50%" class="text text-4">
+        Welcome, my dear friend
+    </text>
+</svg> 
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/Jici-Zeroten/Jici-Zeroten"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
@@ -19,6 +34,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&pause=1000&color=693AB0&center=true&vCenter=true&width=700&lines=%E5%8E%BB%E5%AD%A6%E4%B9%A0%EF%BC%8C%E5%8E%BB%E8%AF%BB%E4%B9%A6%EF%BC%8C%E5%8E%BB%E5%8F%97%E6%95%99%E8%82%B2%EF%BC%8C%E5%8E%BB%E7%9C%8B%E5%B1%B1%E5%B7%9D%E6%B2%B3%E6%B5%81%EF%BC%8C%E5%8E%BB%E8%BF%9C%E6%96%B9;Just+go+go!;%E5%9D%9A%E6%8C%81%E4%BD%A0%E6%89%80%E7%83%AD%E7%88%B1%E7%9A%84%EF%BC%8C%E7%83%AD%E7%88%B1%E4%BD%A0%E6%89%80%E5%9D%9A%E6%8C%81%E7%9A%84;Stay+humble%2C+stay+brave;%E4%BA%BA%E7%94%9F%E4%B8%8D%E8%A6%81%E5%8F%AA%E6%98%AF%E5%86%99%E6%BB%A1%E4%BA%86%E9%9D%92%E6%98%A5%E7%9A%84%E8%87%AA%E4%BB%A5%E4%B8%BA%E6%98%AF)](https://git.io/typing-svg)
 
 <!--   my-kaggle     
+
 ### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
 
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/competition/light)
