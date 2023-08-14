@@ -15,8 +15,8 @@
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&pause=1000&color=693AB0&center=true&vCenter=true&width=700&lines=%E5%8E%BB%E5%AD%A6%E4%B9%A0%EF%BC%8C%E5%8E%BB%E8%AF%BB%E4%B9%A6%EF%BC%8C%E5%8E%BB%E5%8F%97%E6%95%99%E8%82%B2%EF%BC%8C%E5%8E%BB%E7%9C%8B%E5%B1%B1%E5%B7%9D%E6%B2%B3%E6%B5%81%EF%BC%8C%E5%8E%BB%E8%BF%9C%E6%96%B9;Just+go+go!;%E5%9D%9A%E6%8C%81%E4%BD%A0%E6%89%80%E7%83%AD%E7%88%B1%E7%9A%84%EF%BC%8C%E7%83%AD%E7%88%B1%E4%BD%A0%E6%89%80%E5%9D%9A%E6%8C%81%E7%9A%84;Stay+humble%2C+stay+brave;%E4%BA%BA%E7%94%9F%E4%B8%8D%E8%A6%81%E5%8F%AA%E6%98%AF%E5%86%99%E6%BB%A1%E4%BA%86%E9%9D%92%E6%98%A5%E7%9A%84%E8%87%AA%E4%BB%A5%E4%B8%BA%E6%98%AF)](https://git.io/typing-svg)
+<!--   my-ticker -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&pause=1000&color=693AB0&center=true&vCenter=true&width=700&lines=%E5%8E%BB%E5%AD%A6%E4%B9%A0%EF%BC%8C%E5%8E%BB%E8%AF%BB%E4%B9%A6%EF%BC%8C%E5%8E%BB%E5%8F%97%E6%95%99%E8%82%B2%EF%BC%8C%E5%8E%BB%E7%9C%8B%E5%B1%B1%E5%B7%9D%E6%B2%B3%E6%B5%81%EF%BC%8C%E5%8E%BB%E8%BF%9C%E6%96%B9;Just+go+go!;%E5%9D%9A%E6%8C%81%E4%BD%A0%E6%89%80%E7%83%AD%E7%88%B1%E7%9A%84%EF%BC%8C%E7%83%AD%E7%88%B1%E4%BD%A0%E6%89%80%E5%9D%9A%E6%8C%81%E7%9A%84;Stay+humble%2C+stay+brave;%E4%BA%BA%E7%94%9F%E4%B8%8D%E8%A6%81%E5%8F%AA%E6%98%AF%E5%86%99%E6%BB%A1%E4%BA%86%E9%9D%92%E6%98%A5%E7%9A%84%E8%87%AA%E4%BB%A5%E4%B8%BA%E6%98%AF;%E7%83%AD%E7%88%B1%E5%8F%AF%E6%8A%B5%E5%B2%81%E6%9C%88%E9%95%BF)](https://git.io/typing-svg)
 
 <!--   my-kaggle     
 
@@ -108,6 +108,9 @@ graph TD;
 <!--## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Jici-Zeroten/Jici-Zeroten&type=Date)](https://star-history.com/#Jici-Zeroten/Jici-Zeroten&Date)-->
+
+### My Blog :
+<a href="https://jici-zeroten.github.io/">https://jici-zeroten.github.io</a>
 
 ### Profile Views
 counting of visitors to this page in this section started from August 11, 2023
