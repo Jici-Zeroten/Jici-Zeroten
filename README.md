@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="https://github.com/Jici-Zeroten/Jici-Zeroten"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/Jici-Zeroten/Jici-Zeroten"><img src="https://img.shields.io/badge/mood-angry-red.svg"></a>
+    <a href="https://github.com/Jici-Zeroten/Jici-Zeroten"><img src="https://img.shields.io/badge/interest-study-orange.svg"></a>
     <!-- <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a> -->
     <a href="https://github.com/Jici-Zeroten/Jici-Zeroten/graphs/contributors"><img src="https://img.shields.io/github/contributors/Jici-Zeroten/Jici-Zeroten?color=blue"></a>
     <a href="https://github.com/Jici-Zeroten/Jici-Zeroten/stargazers"><img src="https://img.shields.io/github/stars/Jici-Zeroten/Jici-Zeroten.svg?logo=github"></a>
