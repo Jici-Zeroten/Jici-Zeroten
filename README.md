@@ -14,14 +14,14 @@
 <!--   my-header-img -->
 
 ![](src/header.png)
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="75" width="75" >
-:zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz:
-<img src="https://cdn.jsdelivr.net/gh/Ghostwritten/Ghostwritten/assets/gopher.gif" align="left"  width="60px">
+<img src="assets/Python-logo-notext.svg" align="right" height="75" width="75" >
+
+<img src="assets/gopher.gif" align="left"  width="75px">
 
 <!--   my-ticker -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&pause=1000&color=693AB0&center=true&vCenter=true&width=700&lines=%E5%8E%BB%E5%AD%A6%E4%B9%A0%EF%BC%8C%E5%8E%BB%E8%AF%BB%E4%B9%A6%EF%BC%8C%E5%8E%BB%E5%8F%97%E6%95%99%E8%82%B2%EF%BC%8C%E5%8E%BB%E7%9C%8B%E5%B1%B1%E5%B7%9D%E6%B2%B3%E6%B5%81%EF%BC%8C%E5%8E%BB%E8%BF%9C%E6%96%B9;Just+go+go!;%E5%9D%9A%E6%8C%81%E4%BD%A0%E6%89%80%E7%83%AD%E7%88%B1%E7%9A%84%EF%BC%8C%E7%83%AD%E7%88%B1%E4%BD%A0%E6%89%80%E5%9D%9A%E6%8C%81%E7%9A%84;Stay+humble%2C+stay+brave;%E4%BA%BA%E7%94%9F%E4%B8%8D%E8%A6%81%E5%8F%AA%E6%98%AF%E5%86%99%E6%BB%A1%E4%BA%86%E9%9D%92%E6%98%A5%E7%9A%84%E8%87%AA%E4%BB%A5%E4%B8%BA%E6%98%AF;%E7%83%AD%E7%88%B1%E5%8F%AF%E6%8A%B5%E5%B2%81%E6%9C%88%E9%95%BF)](https://git.io/typing-svg)
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="800" height="500" />
+<img align="center" alt="GIF" src="assets/code.gif" width="800" height="500" />
 
 <!--   my-kaggle     
 
@@ -49,7 +49,8 @@
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 <!-- [![Jici-Zeroten's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jici-Zeroten&theme=github-compact)](https://github.com/Jici-Zeroten/github-readme-activity-graph) -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+![](README/github-contribution-grid-snake.svg)
+
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![](https://github-readme-stats.vercel.app/api?username=Jici-Zeroten) | ![Jici-Zeroten's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jici-Zeroten&theme=radical&layout=compact) |
@@ -71,7 +72,6 @@
 <div align="center">
 <summary>Trophy: Github Profile Trophy</summary>
 </div>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
    <!--machine-learning-->
