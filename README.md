@@ -27,8 +27,6 @@
 <div style="display: inline-block;">
   <img src="assets/Python-logo-notext.svg" align="right" height="75" width="75" >
 </div>
-
-
 <img align="center" alt="GIF" src="assets/code.gif" width="800" height="500" />
 
 <!--   my-kaggle     
