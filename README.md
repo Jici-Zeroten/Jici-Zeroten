@@ -78,8 +78,7 @@
 <div align="center">
 <summary>Trophy: Github Profile Trophy</summary>
 </div>
-![](assets/github-profile-trophy.svg)
-
+<img src="assets/github-profile-trophy.svg">
    <!--machine-learning-->
 
 ```mermaid
