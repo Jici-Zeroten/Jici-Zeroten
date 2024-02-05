@@ -55,7 +55,7 @@
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 <!-- [![Jici-Zeroten's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jici-Zeroten&theme=github-compact)](https://github.com/Jici-Zeroten/github-readme-activity-graph) -->
-![](README/github-contribution-grid-snake.svg)
+![](README/github-contribution-grid-snake-1707123374560-2.svg)
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
@@ -78,7 +78,7 @@
 <div align="center">
 <summary>Trophy: Github Profile Trophy</summary>
 </div>
-![](README/github-profile-trophy.svg)
+![](README/github-profile-trophy-1707123381905-5.svg)
 
    <!--machine-learning-->
 
