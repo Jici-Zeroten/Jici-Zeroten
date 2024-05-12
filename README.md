@@ -39,8 +39,9 @@
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/discussion/light)
 -->
 
-
 <!--   my-skils -->
+
+### My Skils:
 
 | Property              | Data                                                         |
 | --------------------- | ------------------------------------------------------------ |
@@ -52,7 +53,44 @@
 | **IDE & Platform**    | ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 | **Framework**         | ![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?logo=jquery&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000.svg?logo=flask&logoColor=white) ![Gin](https://img.shields.io/badge/Gin-007ACC.svg?logo=Gin&logoColor=white) |
 
+![](README/C.png)
+
+![C++](README/C++.png)
+
+![Csharp](README/Csharp.png)
+
+![Github](README/Github.png)
+
+![Golang](README/Golang.png)
+
+![HTML](README/HTML.png)
+
+![Java](README/Java.png)
+
+![Nodejs](README/Nodejs.png)
+
+![PHP](README/PHP.png)
+
+![PS](README/PS.png)
+
+![Python](README/Python.png)
+
+![Ruby](README/Ruby.png)
+
+![Rust](README/Rust.png)
+
+![Ubuntu](README/Ubuntu.png)
+
+![Vim](README/Vim.png)
+
+![VS](README/VS.png)
+
+![VScode](README/VScode.png)
+
+![Vue](README/Vue.png)
+
 <!--   GitHub stats graph -->
+
 ### 📈 GitHub Activity Graph:
 <!-- [![Jici-Zeroten's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jici-Zeroten&theme=github-compact)](https://github.com/Jici-Zeroten/github-readme-activity-graph) -->
 ![](assets/github-contribution-grid-snake.svg)
