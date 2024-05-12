@@ -41,7 +41,7 @@
 
 <!--   my-skils -->
 
-### My Skils:
+### My Skils :
 
 | Property              | Data                                                         |
 | --------------------- | ------------------------------------------------------------ |
@@ -148,6 +148,8 @@ graph TD;
 <img src="https://profile-counter.glitch.me/Jici-Zeroten/count.svg">
 <p align="center"> 
 <center>#########################################Thanks for visiting :snowman: :snowman: :snowman:##################################</center>
+![](README/c.svg)
+
 
 <p></p>
 <p>counting of visitors to this page in this section started from August 11, 2023<p>
