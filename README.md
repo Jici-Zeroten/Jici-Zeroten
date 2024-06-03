@@ -153,15 +153,16 @@ graph TD;
 <p></p>
 <p>counting of visitors to this page in this section started from August 11, 2023<p>
 <a href="https://info.flagcounter.com/HEq0"><img src="https://s11.flagcounter.com/map/HEq0/size_l/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
-
 <!--## Star History
-
 [![Star History Chart](https://api.star-history.com/svg?repos=Jici-Zeroten/Jici-Zeroten&type=Date)](https://star-history.com/#Jici-Zeroten/Jici-Zeroten&Date)-->
 
 ### My Blog :
 <a href="https://jici-zeroten.github.io/">https://jici-zeroten.github.io</a>
 
+![00001-3680946007](README/00001-3680946007.png)
+
 ### Profile Views
+
 counting of visitors to this page in this section started from August 11, 2023
 
 ![](https://moe-counter.glitch.me/get/@Jici-Zeroten.github.readme)
