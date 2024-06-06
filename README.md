@@ -39,6 +39,8 @@
 | **IDE & Platform**    | ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 | **Framework**         | ![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?logo=jquery&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000.svg?logo=flask&logoColor=white) ![Gin](https://img.shields.io/badge/Gin-007ACC.svg?logo=Gin&logoColor=white) |
 
+![My Skills](https://skillicons.dev/icons?i=github,githubactions,bash,md,vim,go,vue,linux,docker,kubernetes,elasticsearch,git,gitlab,grafana,jenkins,mongodb,mysql,redis,nginx,vscode,atom,obsidian,ansible,prometheus,wordpress&theme=light)
+
 ![](README/C.png)
 
 ![C++](README/C++.png)
@@ -128,13 +130,15 @@ graph TD;
 
 </p>
 
-<p align="center"> 
-<center>#########################################Thanks for visiting :snowman: :snowman: :snowman:##################################</center>
-<p></p>
+<img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif"
+width="800"  height="3">
+
 <p align="center">
 <img src="https://profile-counter.glitch.me/Jici-Zeroten/count.svg">
-<p align="center"> 
-<center>#########################################Thanks for visiting :snowman: :snowman: :snowman:##################################</center>
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif"
+width="800"  height="3">
 
 ![](README/c.svg)
 
@@ -148,6 +152,12 @@ graph TD;
 <a href="https://jici-zeroten.github.io/">https://jici-zeroten.github.io</a>
 
 ![00001-3680946007](README/00001-3680946007.png)
+
+<!-- ![](https://github-immortality.vercel.app/api?username=Jici-Zeroten) -->
+
+# My Badges
+
+<img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/sleepy-coder.png?raw=true" alt="I am a sleepy coder." title="I am a sleepy coder." width="64"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true" alt="I commit in the morning." title="I commit in the morning." width="64"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true" alt="I commit in the evening." title="I commit in the evening." width="64"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/midnight-commits.png?raw=true" alt="I commit at midnight." title="I commit at midnight." width="64"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/dead-commit/dead-commit.png?raw=true" alt="I pushed a commit with &quot;dead&quot; 15 times." title="I pushed a commit with &quot;dead&quot; 15 times." width="64"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true" alt="My favorite word is &quot;updated&quot;." title="My favorite word is &quot;updated&quot;." width="64"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/polite-coder.png?raw=true" alt="I am a polite coder." title="I am a polite coder." width="64"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-4.png?raw=true" alt="I have four public keys" title="I have four public keys" width="64">
 
 # Profile Views
 
