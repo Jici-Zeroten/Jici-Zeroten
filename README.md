@@ -151,7 +151,7 @@ width="800"  height="3">
 [![Star History Chart](https://api.star-history.com/svg?repos=Jici-Zeroten/Jici-Zeroten&type=Date)](https://star-history.com/#Jici-Zeroten/Jici-Zeroten&Date)-->
 
 # 📝My Blog 
-<img align='right' src="README/00001-3680946007.png" width="190">
+<img align='right' src="README/00001-3680946007.png" width="230">
 
 - 👋 Hi, My ID is 及辞，很高兴见到你
 
