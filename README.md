@@ -41,42 +41,38 @@
 
 ![My Skills](https://skillicons.dev/icons?i=github,githubactions,bash,md,vim,go,vue,linux,docker,kubernetes,elasticsearch,git,gitlab,grafana,jenkins,mongodb,mysql,redis,nginx,vscode,atom,obsidian,ansible,prometheus,wordpress&theme=light)
 
-![](README/C.png)
-
-![C++](README/C++.png)
-
-![Csharp](README/Csharp.png)
-
-![Github](README/Github.png)
-
-![Golang](README/Golang.png)
-
-![HTML](README/HTML.png)
-
-![Java](README/Java.png)
-
-![Nodejs](README/Nodejs.png)
-
-![PHP](README/PHP.png)
-
-![PS](README/PS.png)
-
-![Python](README/Python.png)
-
-![Ruby](README/Ruby.png)
-
-![Rust](README/Rust.png)
-
-![Ubuntu](README/Ubuntu.png)
-
-![Vim](README/Vim.png)
-
-![VS](README/VS.png)
-
-![VScode](README/VScode.png)
-
-![Vue](README/Vue.png)
-
+<table>
+  <tr>
+    <td><img src="README/C.png" width="350px"></td>
+    <td><img src="README/C++.png" width="350px"></td>
+    <td><img src="README/Csharp.png" width="350px"></td>
+  </tr>
+  <tr>
+    <td><img src="README/Github.png" width="350px"></td>
+    <td><img src="README/Golang.png" width="350px"></td>
+    <td><img src="README/HTML.png" width="350px"></td>
+  </tr>
+  <tr>
+    <td><img src="README/Java.png" width="350px"></td>
+    <td><img src="README/Nodejs.png" width="350px"></td>
+    <td><img src="README/PHP.png" width="350px"></td>
+  </tr>
+  <tr>
+    <td><img src="README/PS.png" width="350px"></td>
+    <td><img src="README/Python.png" width="350px"></td>
+    <td><img src="README/Ruby.png" width="350px"></td>
+  </tr>
+  <tr>
+    <td><img src="README/Rust.png" width="350px"></td>
+    <td><img src="README/Ubuntu.png" width="350px"></td>
+    <td><img src="README/Vim.png" width="350px"></td>
+  </tr>
+  <tr>
+    <td><img src="README/VS.png" width="350px"></td>
+    <td><img src="README/VScode.png" width="350px"></td>
+    <td><img src="README/Vue.png" width="350px"></td>
+  </tr>
+</table>
 <!--   GitHub stats graph -->
 
 # 📈 GitHub Activity Graph
@@ -142,6 +138,7 @@ width="800"  height="3">
 </table>
 
 
+
 <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif"
 width="800"  height="3">
 
@@ -154,9 +151,13 @@ width="800"  height="3">
 [![Star History Chart](https://api.star-history.com/svg?repos=Jici-Zeroten/Jici-Zeroten&type=Date)](https://star-history.com/#Jici-Zeroten/Jici-Zeroten&Date)-->
 
 # 📝My Blog 
-<a href="https://jici-zeroten.github.io/">https://jici-zeroten.github.io</a>
+<img align='right' src="README/00001-3680946007.png" width="350">
 
-![00001-3680946007](README/00001-3680946007.png)
+- 👋 Hi, My ID is 及辞，很高兴见到你
+- 🌱 想更了解我？也许你可以到[这里](https://jici-zeroten.github.io/about/)看看
+- 👋 My Blog：[https://jici-zeroten.github.io](https://jici-zeroten.github.io/)
+- 💞️ 感谢GitHub、Gitee、GitCode等开源社区，感谢一直陪伴着我的小伙伴和大师傅们
+
 
 <!-- ![](https://github-immortality.vercel.app/api?username=Jici-Zeroten) -->
 
