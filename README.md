@@ -44,7 +44,7 @@
 <table>
   <tr>
     <td><img src="README/C.png" width="350px"></td>
-    <td><img src="README/C++.png" width="350px"></td>
+    <td><img src="README/Cpp.png" width="350px"></td>
     <td><img src="README/Csharp.png" width="350px"></td>
   </tr>
   <tr>
@@ -73,6 +73,7 @@
     <td><img src="README/Vue.png" width="350px"></td>
   </tr>
 </table>
+
 <!--   GitHub stats graph -->
 
 # 📈 GitHub Activity Graph
