@@ -151,13 +151,14 @@ width="800"  height="3">
 [![Star History Chart](https://api.star-history.com/svg?repos=Jici-Zeroten/Jici-Zeroten&type=Date)](https://star-history.com/#Jici-Zeroten/Jici-Zeroten&Date)-->
 
 # 📝My Blog 
-<img align='right' src="README/00001-3680946007.png" width="250">
+<img align='right' src="README/00001-3680946007.png" width="200">
 
 - 👋 Hi, My ID is 及辞，很高兴见到你
+- 🧑‍💻 热爱自由，高效工作，言达其意，语及其辞
 - 🌱 想更了解我？也许你可以到[这里](https://jici-zeroten.github.io/about/)看看
 - 👋 My Blog：[https://jici-zeroten.github.io](https://jici-zeroten.github.io/)
 - 💞️ 感谢GitHub、Gitee、GitCode等开源社区
-- 📫感谢一直陪伴着我的小伙伴和大师傅们
+- 📫 感谢一直陪伴着我的小伙伴和大师傅们
 
 
 <!-- ![](https://github-immortality.vercel.app/api?username=Jici-Zeroten) -->
