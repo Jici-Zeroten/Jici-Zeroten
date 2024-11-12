@@ -133,9 +133,14 @@ graph TD;
 <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif"
 width="800"  height="3">
 
-<p align="center">
-<img src="https://profile-counter.glitch.me/Jici-Zeroten/count.svg">
-<p align="center">
+<table>
+  <tr>
+    <td>💝恭喜您成为第</td>
+    <td><img src="https://profile-counter.glitch.me/Jici-Zeroten/count.svg" alt="" /></td>
+    <td>位访客，感谢您的关注和支持！💯</td>
+  </tr>
+</table>
+
 
 <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif"
 width="800"  height="3">
@@ -149,7 +154,7 @@ width="800"  height="3">
 [![Star History Chart](https://api.star-history.com/svg?repos=Jici-Zeroten/Jici-Zeroten&type=Date)](https://star-history.com/#Jici-Zeroten/Jici-Zeroten&Date)-->
 
 # 📝My Blog 
-<a href="https://jici-zeroten.github.io/">https://jici-zeroten.github.io</a>
+### <a href="https://jici-zeroten.github.io/">https://jici-zeroten.github.io</a>
 
 ![00001-3680946007](README/00001-3680946007.png)
 
